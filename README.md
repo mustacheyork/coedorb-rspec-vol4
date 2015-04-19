@@ -1,4 +1,13 @@
-#「Ruby / Ruby on Rails ビギナーズ勉強会 第４回」での発表内容です。
+# coedorb-rspec-vol4
+##「Ruby / Ruby on Rails ビギナーズ勉強会 第４回」での発表内容です。
+
+スライドはこちらから。  
+http://www.slideshare.net/taichikanako/ruby-on-railsrspec
+
+イベントページはこちらです。  
+https://ror-beginners.doorkeeper.jp/events/22786
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ 
 
 ■環境  
 rails 4.2.1  
@@ -133,19 +142,6 @@ Finished in 0.1483 seconds (files took 8.71 seconds to load)
 ```
 
 =============================================================
-# postSnsApp
-「Swiftビギナーズ勉強会 第６回@Co-Edo」の発表したサンプルです。  
-※実際の投稿は、ユーザー自身がTwitterまたは、Facebookアカウントの設定をしていることが必要です。  
-
-スライドはこちらから。  
-http://www.slideshare.net/taichikanako/vol6-swiftsns  
-
-イベントページはこちらです。  
-https://swift-beginners.doorkeeper.jp/events/21881
-
-Social.frameworkを利用して、TwitterやFacebookに投稿するアプリです。
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ 
 
 「CoEdo.rb」が運営する「Ruby / Ruby on Railsビギナーズ勉強会」Ruby、Ruby on Railsなどで開発したい、触りたいための初心者勉強会＆もくもく会です。
 
