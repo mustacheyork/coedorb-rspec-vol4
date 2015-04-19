@@ -1,9 +1,9 @@
 #「Ruby / Ruby on Rails ビギナーズ勉強会 第４回」での発表内容です。
 
-■環境
-rails 4.2.1
-RSpec 3.0.0
-ruby 2.2.1
+■環境  
+rails 4.2.1  
+RSpec 3.0.0  
+ruby 2.2.1  
 
 ###１）Railsプロジェクトを作成
 ```lang:.rb
@@ -155,7 +155,7 @@ Social.frameworkを利用して、TwitterやFacebookに投稿するアプリで�
 イベント申し込みを受け付けている、DoorKeeper でのグループです。  
 https://coedo-rails.doorkeeper.jp/
 
-## Facebookグループ: 
+## Facebookグループ
 イベント告知や技術情報をお互いにシェアしています。   
 https://www.facebook.com/groups/rorbeginners/
 
